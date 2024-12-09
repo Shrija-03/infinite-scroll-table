@@ -20,5 +20,5 @@ This project demonstrates the implementation of a web application using JavaScri
 - **Initial Records**: Load and display 15 user records.
 - **No Third-Party Libraries**: Entirely built using native JavaScript.
 
----
+
 
